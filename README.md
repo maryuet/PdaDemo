@@ -1,1 +1,1 @@
-# snbcdev
+JavaEE E-business project
